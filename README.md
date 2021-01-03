@@ -14,3 +14,5 @@ What is included in this git:
 - Creating videoes for trained network
 - Creating videoes for cart-1-pole with LQR
 - actor_net200 is the fully trained network for cart-1-pole
+- The poster used for the presentation the 04/12/2020.
+- Videoes of trained and LQR-controlled systems
