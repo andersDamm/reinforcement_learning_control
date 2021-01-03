@@ -13,3 +13,4 @@ What is included in this git:
 - Code for training the cart-2-pole
 - Creating videoes for trained network
 - Creating videoes for cart-1-pole with LQR
+- actor_net200 is the fully trained network for cart-1-pole
